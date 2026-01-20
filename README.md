@@ -10,8 +10,7 @@ Hi, I’m Aparna — a Computer Science student passionate about building impact
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avenkatesh2507&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!--
 **avenkatesh2507/avenkatesh2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
