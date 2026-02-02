@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aparna — a Computer Science student passionate about building impactful software.<br>I work with React, Python, JAVA and full-stack technologies, and I love turning ideas into real-world products.<br>Currently focused on project-based learning, open source, and internships.
+Hi, I’m Aparna — a Computer Science student passionate about building impactful software.<br>I work with Python, JAVA, Unity and full-stack technologies, and I love turning ideas into real-world products.<br>Currently focused on project-based learning, open source, and internships.
 
 
 ## 🌐 Socials:
